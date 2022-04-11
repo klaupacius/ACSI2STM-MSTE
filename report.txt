@@ -1,0 +1,11 @@
+Plotted to '/Users/ojan/Documents/Kicad/ACSI2SD MSTE/Output/ACSI2SD MSTE-F_Cu.gbr'.
+Plotted to '/Users/ojan/Documents/Kicad/ACSI2SD MSTE/Output/ACSI2SD MSTE-B_Cu.gbr'.
+Plotted to '/Users/ojan/Documents/Kicad/ACSI2SD MSTE/Output/ACSI2SD MSTE-F_Paste.gbr'.
+Plotted to '/Users/ojan/Documents/Kicad/ACSI2SD MSTE/Output/ACSI2SD MSTE-B_Paste.gbr'.
+Plotted to '/Users/ojan/Documents/Kicad/ACSI2SD MSTE/Output/ACSI2SD MSTE-F_Silkscreen.gbr'.
+Plotted to '/Users/ojan/Documents/Kicad/ACSI2SD MSTE/Output/ACSI2SD MSTE-B_Silkscreen.gbr'.
+Plotted to '/Users/ojan/Documents/Kicad/ACSI2SD MSTE/Output/ACSI2SD MSTE-F_Mask.gbr'.
+Plotted to '/Users/ojan/Documents/Kicad/ACSI2SD MSTE/Output/ACSI2SD MSTE-B_Mask.gbr'.
+Plotted to '/Users/ojan/Documents/Kicad/ACSI2SD MSTE/Output/ACSI2SD MSTE-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/ojan/Documents/Kicad/ACSI2SD MSTE/Output/ACSI2SD MSTE-job.gbrjob'.
+Info: Done.
