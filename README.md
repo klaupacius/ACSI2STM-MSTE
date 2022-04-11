@@ -7,6 +7,8 @@ The PCB has been designed to accomodate version 2.43 of ACSI2STM (aka V2) but al
 
 :warning: **DO NOT PLUG ANY USB CABLE ON THE STM32 ONCE INSTALLED IN THE MEGA STE** :warning:
 
+![ACSI2STM Adapter render](https://github.com/olivierjan/ACSI2SD-MSTE/blob/main/ACSI2SD%20MSTE.png)
+
 ## BOM
 - 100 nF Capacitor
 - 10uF Radial Capacitor
